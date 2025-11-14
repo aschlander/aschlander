@@ -1,5 +1,5 @@
 - Hi, I’m @aschlander
-- I’m interested in Information Retrieval, Exploratory Data Analysis, Content-/Metadata-based Overviews
+- I’m interested in Information Retrieval, Exploratory Data Analysis, Content-/Metadata-based Overviews for Digital Corpora
 - I’m looking to learn and/or collaborate on the abovementioned
 - How to reach me: anna.schlander[at]hotmail.com
 
